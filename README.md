@@ -147,7 +147,7 @@ En esta etapa se realizaron los siguientes procedimientos:
 - Se reemplazaron los datos faltantes. En las columnas que contenian texto colocamos 'Sin dato' y en las columnas numéricas colocamos 0.
 - Se cambio el tipo de dato de cada columna para que tenga coherencia con el tipo de dato que está conteniendo.
 - Se busco las coordenadas del lugar del accidente usando geopy. En esta tarea tuvimos que modificar manualmente el lugar de unos 45 registros ya que estaban mal escritos.
-- Se corrió el formato de la fecha pasando de un formato Mes (texto), año, día al formato anio, mes, día. 
+- Se corrigió el formato de la fecha pasando de un formato Mes (texto), año, día al formato año, mes, día. 
 
 ## Creamos el dataset definitivo
 
